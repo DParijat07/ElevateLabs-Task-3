@@ -55,7 +55,8 @@ This project focuses on understanding core networking concepts and performing ba
 ---
 
 ## Files Included
-- `task3_network_capture.pcapng` – Packet capture file  
+- `task3_network_capture.pcapng` – Packet capture file
+- `Network_Traffic_Analysis_Report.pdf` - Analysis report
 - `README.md` – Project documentation  
 
 ---
